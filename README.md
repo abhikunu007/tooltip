@@ -1,3 +1,44 @@
+
+# Tool Tip
+
+A simple Tooltip app created using react. In this app when we hover over a button it will show us the tooltip.
+
+## Author
+
+- [@Abhishek Kumar](https://www.github.com/abhikunu007)
+
+
+## Deployment
+
+To see this project live click below
+ Link:- https://abhikunu007.github.io/tooltip/
+
+
+## Features
+
+- On hovering over the button it will show a tooltip.
+- The component will receive the position of tooltip as prop. In the GIF (see below). We can pass options : "Right", "Left", "Top", "Bottom".
+- According to the position the tooltip will render at that position.
+
+
+## Demo
+
+![Alt text](c:/Users/Abhishek/Downloads/Tool%20Tip.gif)
+
+
+## Support
+
+For support, email abhishekkumaras007@gmail.com
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at abhishekkumaras007@gmail.com
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
